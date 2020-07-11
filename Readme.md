@@ -18,3 +18,4 @@ Positions of the numbers on the board is:
 4|5|6
 -----
 1|2|3
+-----
