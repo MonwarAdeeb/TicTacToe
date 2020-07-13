@@ -110,7 +110,7 @@ def replay():
 
 
 ################################################################
-#         Beginning calling functions to play the game!         #
+#      Beginning of function calling to play the game!         #
 ################################################################
 
 
