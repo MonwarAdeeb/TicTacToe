@@ -13,9 +13,9 @@ Run the 'Tic Tac Toe.py' file in the Terminal of Visual Studio Code or Windows C
 
 Positions of the numbers on the board is:
 
-7|8|9
------
-4|5|6
------
-1|2|3
------
+7  |  8  |  9
+-------------
+4  |  5  |  6
+-------------
+1  |  2  |  3
+-------------
